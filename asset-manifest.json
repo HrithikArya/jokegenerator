@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jokegenerator/static/css/main.3bb20a04.chunk.css",
+    "main.js": "/jokegenerator/static/js/main.f99472d7.chunk.js",
+    "main.js.map": "/jokegenerator/static/js/main.f99472d7.chunk.js.map",
+    "runtime-main.js": "/jokegenerator/static/js/runtime-main.803f4afa.js",
+    "runtime-main.js.map": "/jokegenerator/static/js/runtime-main.803f4afa.js.map",
+    "static/js/2.36baffdc.chunk.js": "/jokegenerator/static/js/2.36baffdc.chunk.js",
+    "static/js/2.36baffdc.chunk.js.map": "/jokegenerator/static/js/2.36baffdc.chunk.js.map",
+    "index.html": "/jokegenerator/index.html",
+    "static/css/main.3bb20a04.chunk.css.map": "/jokegenerator/static/css/main.3bb20a04.chunk.css.map",
+    "static/js/2.36baffdc.chunk.js.LICENSE.txt": "/jokegenerator/static/js/2.36baffdc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.803f4afa.js",
+    "static/js/2.36baffdc.chunk.js",
+    "static/css/main.3bb20a04.chunk.css",
+    "static/js/main.f99472d7.chunk.js"
+  ]
+}
